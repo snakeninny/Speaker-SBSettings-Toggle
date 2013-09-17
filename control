@@ -1,0 +1,10 @@
+Package: com.naken.speaker
+Name: Speaker
+Depends: sbsettings, firmware (>= 5.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Fast switch incoming call mode to speaker (a shortcut to Settings -> General -> Accessibility -> Incoming calls -> Speaker)!
+Maintainer: snakeninny
+Author: snakeninny & S.Shoghian
+Homepage: http://ying.lu
+Section: Addons (SBSettings)
